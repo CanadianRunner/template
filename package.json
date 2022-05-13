@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/CanadianRunner/template/issues"
   },
-  "homepage": "https://github.com/CanadianRunner/template#readme"
+  "homepage": "https://github.com/CanadianRunner/template#readme",
+  "devDependencies": {
+    "webpack": "4.39.3",
+    "webpack-cli": "^3.3.8"
+  }
 }
